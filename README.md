@@ -44,13 +44,13 @@ Not just a list with dozens of websites that are not relevant or are off. The we
 
 [Alternative To](https://alternativeto.net/)  
 
-[Alternative Me](https://alternative.me/) (takes few days to be approved)
+[Alternative Me](https://alternative.me/) (few days to be approved)
 
-[G2](https://www.g2.com/) (takes few days to get access to the startup or project that was registered)
+[G2](https://www.g2.com/) (few days to get access to the startup or project that was submitted)
 
-[Remote Tools](https://www.remote.tools/) (takes few days to be approved) 
+[Remote Tools](https://www.remote.tools/) (few days to be approved) 
 
-[Capterra](https://www.capterra.com/) (corporative, no betas and takes few days to be approved, but helps to index in other platforms like [Source Forge](https://sourceforge.net/), [Softpedia](https://www.softpedia.com/) via crawler and mainly [Get App](https://www.getapp.com/) which like Capterra belongs to [Gartner](https://www.gartner.com/en))
+[Capterra](https://www.capterra.com/) (corporative, no betas and takes a few days to be approved, but helps to index in other platforms like [Source Forge](https://sourceforge.net/), [Softpedia](https://www.softpedia.com/) via crawler and mainly [Get App](https://www.getapp.com/) which like Capterra belongs to [Gartner](https://www.gartner.com/en))
 
 [Launched](https://launched.io/)
 
@@ -58,23 +58,23 @@ Not just a list with dozens of websites that are not relevant or are off. The we
 
 [Startup School](https://www.startupschool.org/) (better option than [Hacker News](https://news.ycombinator.com/) which is also from [Y Combinator](https://www.ycombinator.com/) or [Lobsters](https://lobste.rs/))
 
-[SaaS Hub](https://www.saashub.com/) (only for software as a service startups or side projects) 
+[SaaS Hub](https://www.saashub.com/) (only for software as a service startup or side projects) 
 
-[Startup Stash](https://startupstash.com/) (takes few days to be approved)
+[Startup Stash](https://startupstash.com/) (few days to be approved)
 
 [Steem Hunt](https://steemhunt.com/) (low relevance, but has a good indexation)
 
 [Side Projectors](https://www.sideprojectors.com/) (only for side projects and low relevance, but excelent visualization)  
 
-[Startup Collections](https://startupcollections.com/) (takes one month, if its not payed)  
+[Startup Collections](https://startupcollections.com/) (one month to be approved, if not payed)  
 
-[Beta Page](https://betapage.co/) (takes months, if its not payed) 
+[Beta Page](https://betapage.co/) (few months to be approved, if not payed) 
 
-[Launching Next](https://www.launchingnext.com/) (takes months, if its not payed)  
+[Launching Next](https://www.launchingnext.com/) (few months to be approved, if not payed)  
 
-[All Startups](https://alltopstartups.com/) (takes months, if its not payed)
+[All Startups](https://alltopstartups.com/) (few months to be approved, if not payed)
 
-### Developer  stack
+### Developer stack
 
 [Stack Share](https://stackshare.io/)  
 
