@@ -1,6 +1,6 @@
 # Launch
 
-Curated list of places to post a startup or side project. 
+A curated list of places to post a startup or side project. 
 
 ## About
 
