@@ -8,7 +8,7 @@ Not just a list with dozens of websites that are not relevant or are off. The we
 
 ## List
 
-- Social medias  
+### Social medias  
 
 [Reddit](https://www.reddit.com/) ([find a reddit](https://www.findareddit.com/) that is related to your startup or side project)
 
@@ -26,7 +26,7 @@ Not just a list with dozens of websites that are not relevant or are off. The we
 
 [Quora](https://quora.com/)
 
-- Search engines  
+### Search engines  
 
 [Google](https://search.google.com/search-console/)
 
@@ -36,7 +36,7 @@ Not just a list with dozens of websites that are not relevant or are off. The we
 
 [Yandex](https://webmaster.yandex.com/)
  
-- Launch platforms  
+### Launch platforms  
   
 [Product Hunt](https://www.producthunt.com/) (don't launch on weekends)
 
@@ -74,7 +74,7 @@ Not just a list with dozens of websites that are not relevant or are off. The we
 
 [All Startups](https://alltopstartups.com/) (takes months, if its not payed)
 
-- Developer  stack
+### Developer  stack
 
 [Stack Share](https://stackshare.io/)  
 
