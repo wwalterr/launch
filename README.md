@@ -22,6 +22,8 @@ Not just a list with dozens of websites that are not relevant or are off. The we
 
 [Angel List](https://angel.co/)
 
+[Discord](https://discord.com/) ([find a channel](https://disboard.org/search) - and a version of this site to your country, excellent for non-english startup or side project)
+
 [F6S](https://www.f6s.com/)
 
 [Quora](https://quora.com/)
