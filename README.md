@@ -14,7 +14,7 @@ Not just a list with dozens of websites that are not relevant or are off. The we
 
 [Twitter](https://twitter.com/)
 
-[Medium](https://medium.com/)
+[Medium](https://medium.com/) (create theme related articles or a launch post, a next level is to turn these into audio, e.g using [Anchor](https://anchor.fm/) - which turns easy to create and publish)
 
 [Crunch Base](https://www.crunchbase.com/)
 
@@ -58,7 +58,7 @@ Not just a list with dozens of websites that are not relevant or are off. The we
 
 [Startup School](https://www.startupschool.org/) (better option than [Hacker News](https://news.ycombinator.com/) which is also from [Y Combinator](https://www.ycombinator.com/) or [Lobsters](https://lobste.rs/))
 
-[SaaS Hub](https://www.saashub.com/) (only for software as a service startup or side projects) 
+[SaaS Hub](https://www.saashub.com/) (only for software as a service startup or side project) 
 
 [Startup Stash](https://startupstash.com/) (few days to be approved)
 
