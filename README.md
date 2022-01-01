@@ -44,6 +44,8 @@ Not just a list with dozens of websites that are not relevant or are off. The we
 
 [Indie Hackers](https://www.indiehackers.com/)  
 
+[Lunch Club](https://lunchclub.com/)
+
 [Alternative To](https://alternativeto.net/)  
 
 [Alternative Me](https://alternative.me/) (few days to be approved)
